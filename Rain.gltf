@@ -15,6 +15,7 @@
                     "export_force_sampling" : 1,
                     "export_format" : "GLTF_EMBEDDED",
                     "export_morph_tangent" : 1,
+                    "export_selected" : 0,
                     "export_tangents" : 1
                 }
             },
